@@ -1,2 +1,3 @@
-# curso_alura_testes_automatizados_python
-Curso da Alura - Teste Automatizados: TDD com Python - 2021
+**Curso da Alura - Teste Automatizados: TDD com Python - 2021** - [https://cursos.alura.com.br/course/tdd-com-python](https://cursos.alura.com.br/course/tdd-com-python)
+
+**Conceitos Abordados:**
