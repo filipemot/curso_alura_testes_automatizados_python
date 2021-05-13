@@ -12,3 +12,6 @@
 - Um pouco de programação defensiva;
 - Conceitos como encapsulamento e comportamento 
 - Como os testes ajudam na modelagem das classes
+- Como testar exceções com a unittest
+- O que são baby steps
+- Vimos que testes também são refatorados para atender as novas regras de negócio
