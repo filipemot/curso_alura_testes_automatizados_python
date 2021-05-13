@@ -19,3 +19,6 @@
 - Como testar exceções com ela
 - As diferenças com a biblioteca unittest
 - Onde colocar os módulos de testes
+- Criar exceções
+- Técnicas de refatoração
+- A importância de manter um código legível
