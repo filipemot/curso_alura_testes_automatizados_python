@@ -15,3 +15,7 @@
 - Como testar exceções com a unittest
 - O que são baby steps
 - Vimos que testes também são refatorados para atender as novas regras de negócio
+- O que é a biblioteca pytest
+- Como testar exceções com ela
+- As diferenças com a biblioteca unittest
+- Onde colocar os módulos de testes
